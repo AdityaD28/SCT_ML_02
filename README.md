@@ -50,7 +50,7 @@ With `k=5` as our optimal number of clusters, we applied the K-Means algorithm t
 
 The analysis revealed five customer profiles with distinct characteristics.
 
-![Customer Segments Plot](https://i.imgur.com/8pY5zC7.png)
+![Customer Segments Plot](Customer_Segments.png)
 
 ### Segment Profiles
 
