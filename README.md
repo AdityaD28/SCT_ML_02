@@ -66,7 +66,8 @@ The analysis revealed five customer profiles with distinct characteristics.
 
 We further analyzed the gender distribution within each segment, revealing that the **Target / VIPs** and **Enthusiasts** groups have a higher proportion of female customers.
 
-![Gender Distribution Plot](https://placehold.co/600x400/EEE/31343C?text=Gender+Distribution+Bar+Chart)
+![Gender Distribution](Gender%20Distribution%20within%20Each%20Customer%20Segment.png)
+
 
 ---
 
