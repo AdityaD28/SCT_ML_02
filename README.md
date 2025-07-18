@@ -38,7 +38,7 @@ To determine the ideal number of clusters (`k`), we used the **Elbow Method**:
 
 For this dataset, the elbow was clearly visible at **k=5**.
 
-![Elbow Method Plot](https://placehold.co/600x400/EEE/31343C?text=Elbow+Method+Plot\n(Optimal+k=5))
+![Elbow Method](elbow%20method.png)
 
 ### 3. K-Means Clustering
 
